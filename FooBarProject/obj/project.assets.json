@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/FooBarProject/FooBarProject.csproj",
+      "projectUniqueName": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/mam/C-Project/FooBarProject/FooBarProject.csproj",
       "projectName": "FooBarProject",
-      "projectPath": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/FooBarProject/FooBarProject.csproj",
+      "projectPath": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/mam/C-Project/FooBarProject/FooBarProject.csproj",
       "packagesPath": "/home/mike/.nuget/packages/",
-      "outputPath": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/FooBarProject/obj/",
+      "outputPath": "/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/mam/C-Project/FooBarProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mike/.nuget/NuGet/NuGet.Config"

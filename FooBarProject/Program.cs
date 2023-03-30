@@ -6,6 +6,7 @@ internal class Program
         Functions functions = new();
 
         functions.Add(3, "foo");
+        functions.Add(4, "woo");
         functions.Add(5, "bar");
         functions.Add(7, "baz");
 
@@ -43,20 +44,55 @@ class Functions
     {
         for (int i = 0; i <= _limit; i++)
         {
-            _Numbers.Add(i);
+            if (i == 0)
+            {
+                _Numbers.Add(i.ToString());
+            }
+            else
+            {
+                _Numbers.Add(Compare(i));
+                // string result = "";
+                // foreach (KeyValuePair<int, string> kvp in _listKey)
+                // {
+                //     if (i % kvp.Key == 0)
+                //     {
+                //         Console.WriteLine($"{i} Masuk Compare {kvp.Key} : {kvp.Value}");
+                //         result += kvp.Value;
+                //         Thread.Sleep(500);
+                //     }
+                //     else
+                //     {
+                //         result = i.ToString();
+                //     }
+                // }
+                // _Numbers.Add(result);
+            }
         }
-
+    }
+    //method Compare untuk membandingkan dengan Key Value yang disimpan di Dictionary
+    public string Compare(int x)
+    {
+        string result = "";
+        foreach (KeyValuePair<int, string> kvp in _listKey)
+        {
+            if (x % kvp.Key == 0)
+            {
+                Console.WriteLine($"{x} Masuk Compare {kvp.Key} : {kvp.Value}");
+                result += kvp.Value;
+            }
+        }
+        return result == string.Empty ? x.ToString() : result;
     }
     public void Print()
+    {
+        foreach (var item in _listKey)
         {
-            foreach (var item in _listKey)
-            {
-                Console.WriteLine($" Kode yang tersimpan adalah Key {item.Key}, dan value {item.Value}");
-            }
-            foreach (var item in _Numbers)
-            {
-                Console.Write(item+"\t");
-            }
-            Console.WriteLine("\n"+"fungsi sementara");
+            Console.WriteLine($" Kode yang tersimpan adalah Key {item.Key}, dan value {item.Value}");
         }
+        foreach (var item in _Numbers)
+        {
+            Console.Write(item + "\t");
+        }
+        Console.WriteLine("\n" + "fungsi sementara");
+    }
 }
