@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/Delegate
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/Delegate.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/Delegate.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/Delegate.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/ref/Delegate.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/bin/Debug/net6.0/Delegate.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/ref/Delegate.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Delegate/obj/Debug/net6.0/Delegate.genruntimeconfig.cache

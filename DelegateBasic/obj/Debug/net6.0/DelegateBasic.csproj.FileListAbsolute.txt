@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/DelegateBasic
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/DelegateBasic.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/DelegateBasic.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/DelegateBasic.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/ref/DelegateBasic.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/bin/Debug/net6.0/DelegateBasic.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/ref/DelegateBasic.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/DelegateBasic/obj/Debug/net6.0/DelegateBasic.genruntimeconfig.cache

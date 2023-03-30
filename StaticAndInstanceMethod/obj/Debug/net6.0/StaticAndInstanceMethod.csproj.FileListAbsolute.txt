@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/StaticAndInstanceMethod
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/StaticAndInstanceMethod.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/StaticAndInstanceMethod.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/StaticAndInstanceMethod.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/ref/StaticAndInstanceMethod.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/bin/Debug/net6.0/StaticAndInstanceMethod.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/ref/StaticAndInstanceMethod.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/StaticAndInstanceMethod/obj/Debug/net6.0/StaticAndInstanceMethod.genruntimeconfig.cache

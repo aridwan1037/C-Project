@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/DelegateCandra
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/DelegateCandra.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/DelegateCandra.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/DelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/ref/DelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/bin/Debug/net6.0/DelegateCandra.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/ref/DelegateCandra.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/Referensi/DelegateCandra/obj/Debug/net6.0/DelegateCandra.genruntimeconfig.cache

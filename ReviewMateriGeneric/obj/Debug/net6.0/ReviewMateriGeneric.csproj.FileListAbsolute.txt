@@ -1,0 +1,15 @@
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.csproj.AssemblyReference.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.GeneratedMSBuildEditorConfig.editorconfig
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.AssemblyInfoInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.AssemblyInfo.cs
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.csproj.CoreCompileInputs.cache
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ReviewMateriGeneric
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ReviewMateriGeneric.deps.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ReviewMateriGeneric.runtimeconfig.json
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ReviewMateriGeneric.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ref/ReviewMateriGeneric.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/bin/Debug/net6.0/ReviewMateriGeneric.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ref/ReviewMateriGeneric.dll
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.pdb
+/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/C#_Project/ReviewMateriGeneric/obj/Debug/net6.0/ReviewMateriGeneric.genruntimeconfig.cache
