@@ -1,5 +1,0 @@
-/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/Collection/obj/Debug/net6.0/Collection.csproj.AssemblyReference.cache
-/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/Collection/obj/Debug/net6.0/Collection.GeneratedMSBuildEditorConfig.editorconfig
-/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/Collection/obj/Debug/net6.0/Collection.AssemblyInfoInputs.cache
-/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/Collection/obj/Debug/net6.0/Collection.AssemblyInfo.cs
-/media/mike/d6c8b7be-934c-4a56-ac0d-fdda5ea2c7f9/mike/SeBootcamp/C#_Project/Collection/obj/Debug/net6.0/Collection.csproj.CoreCompileInputs.cache
